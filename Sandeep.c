@@ -697,7 +697,7 @@ void finalsand(char *item, int isitem)
         else if (strcmp(item, staff[2])==0)
             printf("\x1b[32;1mИ \x1b[0mисполины \x1b[32;1mумирают, они не помнили, но знали\x1b[0m\n");
         else if (strcmp(item, staff[3])==0)
-            printf("\x1b[32;1mСовсем как будто бы живые, но все давно уже мертвы, лишь память сохранять безумцы, которым некуда идти\x1b[0m\n");
+            printf("\x1b[32;1mСовсем как будто бы живые, но все давно уже мертвы, лишь память сохранят безумцы, которым некуда идти\x1b[0m\n");
         else if (strcmp(item, staff[4])==0)
             printf("\x1b[32;1mВ морях мы плавали и жили, на солнце превратимся в пыль\x1b[0m\n");
         else if (strcmp(item, staff[5])==0)
